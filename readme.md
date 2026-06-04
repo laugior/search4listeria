@@ -56,7 +56,7 @@ flowchart TB
     style OUTPUT fill:#CECBF6,stroke:#534AB7,color:#26215C
 
     %% Estilos de los subgrafos para dar estructura limpia
-    style INPUTS fill:#fce14f,stroke:#ddd,stroke-width:1px
+    style INPUTS fill:#659ad2,stroke:#ddd,stroke-width:1px
     style ALIGNMENT fill:#f4fbf9,stroke:#0F6E56,stroke-width:1px,stroke-dasharray: 5 5
     style ANALYSIS fill:#fffbeb,stroke:#BA7517,stroke-width:1px
     style OUTPUTS fill:#f5f4ff,stroke:#534AB7,stroke-width:1px
