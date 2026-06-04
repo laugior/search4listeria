@@ -23,7 +23,7 @@ flowchart TB
         SBAM["temp · {sample}_aligned_sorted.bam"]
         B2B["bedtools bamtobed"]
         BED["temp · {sample}.bed"]
-        COV["bedtools coverage\nBED vs GTF\n-mean · 1 thread · 8 GB"]
+        COV["bedtools coverage\nBED vs GTF"]
     end
 
     %% --- SALIDA ---
@@ -62,5 +62,6 @@ flowchart TB
     style OUTPUTS fill:#f5f4ff,stroke:#534AB7,stroke-width:1px
 ```
 
-![pipeline](pipeline_mermaid.mermaid)
+## Explicacion
+### Se alinean todas las lecturas de las muestras al genoma de Listeria monocytogenes, utilizando minimap2. Se pasan los archivos .sam obtenidos a .bam y se los ordena con sort. El bam es transformado a bed por comodidad y se calcula el coverage de genes con bedtools. 
 
