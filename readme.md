@@ -101,7 +101,7 @@ flowchart TB
 |-------|-------|------------|-----------|--------------------|
 |53_S3	|prs	|lmo0199	|0.083857|	Fosforribosilpirofosfato sintetasa|
 |60_S10	|prs	|lmo0199	|0.041929	|Fosforribosilpirofosfato sintetasa|
-|67_S17	|lmo0733|	lmo0733|	|0.994083|	Internalin-like protein|
+|67_S17	|lmo0733|lmo0733	|0.994083|	Internalin-like protein|
 |74_S24	|prs	|lmo0199	|0.041929	|Fosforribosilpirofosfato sintetasa|
 |76_S26	|prs	|lmo0199	|0.083857	|Fosforribosilpirofosfato sintetasa|
 |77_S27	|prs	|lmo0199	|0.083857	|Fosforribosilpirofosfato sintetasa|
