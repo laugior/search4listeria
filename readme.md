@@ -84,3 +84,33 @@ flowchart TB
 |lmo2122 |Componente de permeasa PTS específico de L. monocytogenes|
 |prs  |Fosforribosilpirofosfato sintetasa|
 
+## Resultados
+
+### UC
+
+|Muestra|	Gene	|Locus_Tag	|Cobertura	|Categoria_Marcador|
+|-------|-----------|-----------|-----------|------------------|
+|UC02-IgG-neg_S64	|prs	|lmo0199	|0.041929	|Fosforribosilpirofosfato sintetasa|
+|UC05-IgG-neg_S70	|prs	|lmo0199	|0.126834	|Fosforribosilpirofosfato sintetasa|
+|UC13-IgG-neg_S86	|lmo0733	|lmo0733	|0.072978	|Internalin-like protein|
+
+
+### CD
+
+|Muestra|	Gene|	Locus_Tag|	Cobertura|	Categoria_Marcador|
+|-------|-------|------------|-----------|--------------------|
+|53_S3	|prs	|lmo0199	|0.083857|	Fosforribosilpirofosfato sintetasa|
+|60_S10	|prs	|lmo0199	|0.041929	|Fosforribosilpirofosfato sintetasa|
+|67_S17	|lmo0733|	lmo0733|	|0.994083|	Internalin-like protein|
+|74_S24	|prs	|lmo0199	|0.041929	|Fosforribosilpirofosfato sintetasa|
+|76_S26	|prs	|lmo0199	|0.083857	|Fosforribosilpirofosfato sintetasa|
+|77_S27	|prs	|lmo0199	|0.083857	|Fosforribosilpirofosfato sintetasa|
+|78_S28	|prs	|lmo0199	|0.457023	|Fosforribosilpirofosfato sintetasa|
+|79_S29	|prs	|lmo0199	|0.041929	|Fosforribosilpirofosfato sintetasa|
+80_S30	|prs	|lmo0199	|0.041929	|Fosforribosilpirofosfato sintetasa|
+|CD13-IgG-neg_S29_L001	|prs	|lmo0199	|0.120545|	Fosforribosilpirofosfato sintetasa|
+|CD13-IgG-neg_S29_L002	|prs	|lmo0199	|0.227463|	Fosforribosilpirofosfato sintetasa|
+|CD13-IgG-neg_S29_L003	|prs	|lmo0199	|0.031447|	Fosforribosilpirofosfato sintetasa|
+|CD13-IgG-neg_S29_L004	|prs	|lmo0199	|0.115304|	Fosforribosilpirofosfato sintetasa|
+
+
