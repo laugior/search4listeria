@@ -40,7 +40,7 @@ flowchart TB
     COV --> OUTPUT
 
     %% --- ESTILOS ---
-    style INPUT  fill:#659ad2,stroke:#5F5E5A,color:#2C2C2A
+    style INPUT  fill:#D3D1C7,stroke:#5F5E5A,color:#2C2C2A
     style GENOME fill:#D3D1C7,stroke:#5F5E5A,color:#2C2C2A
     style GTF    fill:#D3D1C7,stroke:#5F5E5A,color:#2C2C2A
     
