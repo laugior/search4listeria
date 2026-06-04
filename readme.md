@@ -15,7 +15,7 @@ flowchart TB
         SV["samtools view\nSAM → BAM"]
         SS["samtools sort\nsort by coord"]
         
-        MM ==> |pipe| SV ==> |pipe| SS
+        MM ==>  SV ==>  SS
     end
 
     %% --- PASOS INTERMEDIOS Y ANÁLISIS ---
