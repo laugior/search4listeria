@@ -68,23 +68,19 @@ flowchart TB
 ## Script de python
 ### Se generó un script de python para parsear los archivos y filtrar genes de interes de Lm.
 
-|Genes de interes | Codigo|
+|Genes de interes | Nombre|
 |-----|------|
 |prfA | Positive Regulatory Factor A|
 |hly  | Listeriolisina O (LLO)|
 |actA | Proteína de polimerización de actina|
 |plcA | Fosfolipasa A|
 |plcB | Fosfolipasa B|
-|inlA Internalina A
-|inlB Internalina B
+|inlA |Internalina A |
+|inlB |Internalina B |
 |inlC |Internalina C|
-|inlJ "Internalina J",
+|inlJ |Internalina J|
+|lmo0733 |Internalin-like protein|
+|lmo0113 |Permeasa PTS específica de beta-glucósido|
+|lmo2122 |Componente de permeasa PTS específico de L. monocytogenes|
+|prs  |Fosforribosilpirofosfato sintetasa|
 
-    # Marcadores de Exclusividad de Especie (No dependientes de virulencia)
-    "lmo0733": "Internalin-like protein",
-    "lmo0113": "Permeasa PTS específica de beta-glucósido",
-    "lmo2122": "Componente de permeasa PTS específico de L. monocytogenes",
-
-    # Marcador de Género (Listeria spp.)
-    "prs": "Fosforribosilpirofosfato sintetasa"
-}
