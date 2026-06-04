@@ -10,10 +10,10 @@ flowchart TB
     end
 
     %% --- PROCESAMIENTO EN STREAMING ---
-    subgraph ALIGNMENT ["Alineamiento y Filtrado (In-memory Pipe)"]
-        MM["minimap2\nalign to Listeria genome\n-x sr · 32 threads · 32 GB"]
-        SV["samtools view\nSAM → BAM\n4 threads · 4 GB"]
-        SS["samtools sort\nsort by coord\n8 threads · 16 GB"]
+    subgraph ALIGNMENT ["Alineamiento y Filtrado"]
+        MM["minimap2\nalign to Listeria genome"]
+        SV["samtools view\nSAM → BAM"]
+        SS["samtools sort\nsort by coord"]
         
         MM ==> |pipe| SV ==> |pipe| SS
     end
@@ -21,7 +21,7 @@ flowchart TB
     %% --- PASOS INTERMEDIOS Y ANÁLISIS ---
     subgraph ANALYSIS ["Conversión y Cobertura"]
         SBAM["temp · {sample}_aligned_sorted.bam"]
-        B2B["bedtools bamtobed\nBAM → BED\n1 thread · 4 GB"]
+        B2B["bedtools bamtobed"]
         BED["temp · {sample}.bed"]
         COV["bedtools coverage\nBED vs GTF\n-mean · 1 thread · 8 GB"]
     end
