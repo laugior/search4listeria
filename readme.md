@@ -1,6 +1,6 @@
 Pipeline para buscar genes de listeria en muestras
 
-'''mermaid
+```mermaid
 flowchart TB
     %% --- ENTRADAS ---
     subgraph INPUTS ["Datos de Entrada"]
@@ -60,7 +60,7 @@ flowchart TB
     style ALIGNMENT fill:#f4fbf9,stroke:#0F6E56,stroke-width:1px,stroke-dasharray: 5 5
     style ANALYSIS fill:#fffbeb,stroke:#BA7517,stroke-width:1px
     style OUTPUTS fill:#f5f4ff,stroke:#534AB7,stroke-width:1px
-'''
+```
 
 ![pipeline](pipeline_mermaid.mermaid)
 
