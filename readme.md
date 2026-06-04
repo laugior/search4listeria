@@ -62,6 +62,29 @@ flowchart TB
     style OUTPUTS fill:#f5f4ff,stroke:#534AB7,stroke-width:1px
 ```
 
-## Explicacion
+## Explicacion del pipeline
 ### Se alinean todas las lecturas de las muestras al genoma de Listeria monocytogenes, utilizando minimap2. Se pasan los archivos .sam obtenidos a .bam y se los ordena con sort. El bam es transformado a bed por comodidad y se calcula el coverage de genes con bedtools. 
 
+## Script de python
+### Se generó un script de python para parsear los archivos y filtrar genes de interes de Lm.
+
+|Genes de interes | Codigo|
+|-----|------|
+|prfA | Positive Regulatory Factor A|
+|hly  | Listeriolisina O (LLO)|
+|actA | Proteína de polimerización de actina|
+|plcA | Fosfolipasa A|
+|plcB | Fosfolipasa B|
+|inlA Internalina A
+|inlB Internalina B
+|inlC |Internalina C|
+|inlJ "Internalina J",
+
+    # Marcadores de Exclusividad de Especie (No dependientes de virulencia)
+    "lmo0733": "Internalin-like protein",
+    "lmo0113": "Permeasa PTS específica de beta-glucósido",
+    "lmo2122": "Componente de permeasa PTS específico de L. monocytogenes",
+
+    # Marcador de Género (Listeria spp.)
+    "prs": "Fosforribosilpirofosfato sintetasa"
+}
