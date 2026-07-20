@@ -115,5 +115,4 @@ flowchart TB
 
 
 ## Genes totales
-
-
+[CD_RESULTS](https://github.com//laugior/search4listeria/tree/main/resultados/CD_ALL_COV/reporte_cobertura_CD.tsv)
