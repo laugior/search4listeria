@@ -1,0 +1,90 @@
+import os
+import glob
+#Parsear todos los archivos que contengan el comodin R1.trimmed.fasta.gz
+R1_FILES = glob.glob("/home/lgiordano/trimmed_controles/trimmed/*_R1.fastq.gz")
+# Dividir que es nombre de muestra y que es comodin
+SAMPLES = [os.path.basename(f).split("_R1.")[0] for f in R1_FILES]
+print(f"Muestras detectadas: {SAMPLES}")
+
+#Definir archivos importantes
+genome = "GCF_000196035.1_ASM19603v1_genomic.fna"
+gtf_file = "genomic.gtf"
+
+#Definir el ultimo archivo en la primera regla :c
+rule all:
+    input:
+        expand("results/{sample}_cobertura_cds.txt", sample=SAMPLES)
+
+#Alinear lecturas cortas al genoma de referencia
+rule minimap:
+    input:
+   	 r1= "/home/lgiordano/trimmed_controles/trimmed/{sample}_R1.fastq.gz",
+   	 r2= "/home/lgiordano/trimmed_controles/trimmed/{sample}_R2.fastq.gz"
+    output:
+        temp("alineamientos/{sample}_aligned.sam")
+    params:
+        genome = genome
+    threads: 32
+    resources:
+        mem_mb = 32000
+    conda:
+        "listeria_pipeline.yaml"
+    shell:
+        "minimap2 -x sr -t {threads} {params.genome} {input.r1} {input.r2} -a -o {output}" #-sr shortreads
+
+#Transformar sam a bam
+rule samtools_view:
+    input:
+        "alineamientos/{sample}_aligned.sam"
+    output:
+        temp("intermedios_bams/{sample}_aligned.bam")
+    threads: 4
+    resources:
+        mem_mb = 4000
+    conda:
+        "listeria_pipeline.yaml"
+    shell:
+        "samtools view -@ {threads} -bS {input} -o {output}"
+
+#ordenar bam por region 
+rule samtools_sort:
+    input:
+        "intermedios_bams/{sample}_aligned.bam"
+    output:
+        temp("intermedios_sorted_bams/{sample}_aligned_sorted.bam")
+    threads: 8
+    resources:
+        mem_mb = 16000
+    conda:
+        "listeria_pipeline.yaml"
+    shell:
+        "samtools sort -@ {threads} -m 2G {input} -o {output}"
+
+#pasamos el bam2bed
+rule bam2bed:
+    input:
+        "intermedios_sorted_bams/{sample}_aligned_sorted.bam"
+    output:
+        temp("intermedios_b2b/{sample}.bed")
+    threads: 1
+    resources:
+        mem_mb = 4000
+    conda:
+        "listeria_pipeline.yaml"
+    shell:
+        "bedtools bamtobed -i {input} > {output}"
+#calculamos coverage
+rule coverage:
+    input:
+        "intermedios_b2b/{sample}.bed"
+    output:
+        "results/{sample}_cobertura_cds.txt"
+    params:
+        gtf = gtf_file
+    threads: 1
+    resources:
+        mem_mb = 8000
+    conda:
+        "listeria_pipeline.yaml"
+    shell:
+        "bedtools coverage -a {params.gtf} -b {input} -mean > {output}"
