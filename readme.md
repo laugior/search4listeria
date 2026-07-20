@@ -65,7 +65,7 @@ flowchart TB
 ## Explicacion del pipeline
 ### Se alinean todas las lecturas de las muestras al genoma de Listeria monocytogenes, utilizando minimap2. Se pasan los archivos .sam obtenidos a .bam y se los ordena con sort. El bam es transformado a bed por comodidad y se calcula el coverage de genes con bedtools. 
 
-## Script de python
+## Genes de interes
 ### Se generó un script de python para parsear los archivos y filtrar genes de interes de Lm.
 
 |Genes de interes | Nombre|
@@ -112,5 +112,8 @@ flowchart TB
 |CD13-IgG-neg_S29_L002	|prs	|lmo0199	|0.227463|	Fosforribosilpirofosfato sintetasa|
 |CD13-IgG-neg_S29_L003	|prs	|lmo0199	|0.031447|	Fosforribosilpirofosfato sintetasa|
 |CD13-IgG-neg_S29_L004	|prs	|lmo0199	|0.115304|	Fosforribosilpirofosfato sintetasa|
+
+
+## Genes totales
 
 
