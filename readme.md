@@ -70,7 +70,7 @@ flowchart TB
     
     style OUTPUT fill:#CECBF6,stroke:#534AB7,color:#26215C
 
-    %% Estilos de los subgrafos para dar estructura limpia
+    
     style INPUTS fill:#659ad2,stroke:#ddd,stroke-width:1px
     style ALIGNMENT fill:#f4fbf9,stroke:#0F6E56,stroke-width:1px,stroke-dasharray: 5 5
     style ANALYSIS fill:#fffbeb,stroke:#BA7517,stroke-width:1px
@@ -82,6 +82,8 @@ flowchart TB
 
 ## Genes de interes
 ### Se generó un script de python para parsear los archivos y filtrar genes de interes de Lm.
+
+[Script_filter_genes_de_interes](https://github.com/laugior/search4listeria/blob/main/scripts/parse_coverage.py)
 
 |Genes de interes | Nombre|
 |-----|------|
