@@ -7,6 +7,10 @@ Los scripts de este pipeline fueron creados utilizando Claude Opus 4.8 alto.
 
 Pipeline diseñado para correr en CCAD
 
+[Script_de_lanzamiento](https://github.com/laugior/search4listeria/blob/main/scripts/launch.sh)
+
+## Resumen del pipeline
+
 
 
 ```mermaid
