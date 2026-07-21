@@ -9,6 +9,8 @@ Pipeline diseñado para correr en CCAD
 
 [Script_de_lanzamiento](https://github.com/laugior/search4listeria/blob/main/scripts/launch.sh)
 
+[Script_Maestro](https://github.com/laugior/search4listeria/blob/main/scripts/Snakefile)
+
 ## Resumen del pipeline
 
 
