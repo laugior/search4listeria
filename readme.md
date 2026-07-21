@@ -1,4 +1,4 @@
-Pipeline para buscar genes de listeria en muestras
+# Pipeline para buscar genes de listeria en muestras
 
 by Laureano y Claude ♥
 
