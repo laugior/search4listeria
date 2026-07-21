@@ -119,4 +119,4 @@ flowchart TB
 
 [UC_RESULTS](https://github.com//laugior/search4listeria/tree/main/resultados/UC_ALL_COV/reporte_cobertura_UC.tsv)
 
-[Sanos_RESULTS](https://github.com//laugior/search4listeria/tree/main/resultados/results/Sanos_ALL_Cov/reporte_cobertura.tsv)
+[Sanos_RESULTS](https://github.com//laugior/search4listeria/tree/main/resultados/Sanos_ALL_Cov/reporte_cobertura.tsv)
