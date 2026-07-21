@@ -1,0 +1,762 @@
+Muestra	Gene	Locus_Tag	Producto	Cobertura
+HC01IgGneg_S1	tuf	lmo2653	elongation factor Tu	0.711392
+HC01IgGneg_S1	rpsK	lmo2607	30S ribosomal protein S11	0.416021
+HC01IgGneg_S1		lmo1097a	hypothetical protein	0.343434
+HC01IgGneg_S1	rpmA	lmo1540	50S ribosomal protein L27	0.277778
+HC01IgGneg_S1	rplA	lmo0249	50S ribosomal protein L1	0.263464
+HC01IgGneg_S1	rpoB	lmo0258	DNA-directed RNA polymerase subunit beta	0.228604
+HC01IgGneg_S1	pflB	lmo1406	pyruvate formate-lyase	0.107223
+HC01IgGneg_S1	tsf	lmo1657	elongation factor Ts	0.095238
+HC01IgGneg_S1	rplL	lmo0251	50S ribosomal protein L7/L12	0.094444
+HC01IgGneg_S1	rplX	lmo2621	50S ribosomal protein L24	0.093851
+HC01IgGneg_S1	dnaK	lmo1473	molecular chaperone DnaK	0.070691
+HC01IgGneg_S1		lmo1081	glucose-1-phosphate thymidyl transferase	0.037037
+HC01IgGneg_S1	fus	lmo2654	elongation factor G	0.033573
+HC01IgGneg_S1		lmo1978	glucose-6-phosphate 1-dehydrogenase	0.021724
+HC01IgGneg_S1	leuS	lmo1660	leucyl-tRNA synthetase	0.012453
+HC01IgGpos_S2	tuf	lmo2653	elongation factor Tu	19.292828
+HC01IgGpos_S2	rplB	lmo2629	50S ribosomal protein L2	12.838749
+HC01IgGpos_S2	rpmJ	lmo2609	50S ribosomal protein L36	12.666667
+HC01IgGpos_S2	rpsS	lmo2628	30S ribosomal protein S19	9.228261
+HC01IgGpos_S2	rpsJ	lmo2633	30S ribosomal protein S10	4.297386
+HC01IgGpos_S2	atpA	lmo2531	ATP synthase F0F1 subunit alpha	3.646164
+HC01IgGpos_S2	rpsB	lmo1658	30S ribosomal protein S2	3.152611
+HC01IgGpos_S2	rplA	lmo0249	50S ribosomal protein L1	3.007278
+HC01IgGpos_S2		lmo2511	hypothetical protein	2.493761
+HC01IgGpos_S2	dnaK	lmo1473	molecular chaperone DnaK	2.177814
+HC01IgGpos_S2	fus	lmo2654	elongation factor G	2.170264
+HC01IgGpos_S2	pdhA	lmo1052	pyruvate dehydrogenase subunit E1 alpha	1.962264
+HC01IgGpos_S2	rpmA	lmo1540	50S ribosomal protein L27	1.885417
+HC01IgGpos_S2		lmo1097a	hypothetical protein	1.853535
+HC01IgGpos_S2	rplK	lmo0248	50S ribosomal protein L11	1.794326
+HC01IgGpos_S2	rpsH	lmo2618	30S ribosomal protein S8	1.553030
+HC01IgGpos_S2	pgk	lmo2458	phosphoglycerate kinase	1.484849
+HC01IgGpos_S2		lmo2703	hypothetical protein	1.326984
+HC01IgGpos_S2		lmo1391	sugar ABC transporter permease	1.295359
+HC01IgGpos_S2	tsf	lmo1657	elongation factor Ts	1.255102
+HC01IgGpos_S2	atpD	lmo2529	ATP synthase F0F1 subunit beta	1.024665
+HC01IgGpos_S2	pflB	lmo1406	pyruvate formate-lyase	0.939883
+HC01IgGpos_S2		lmo1978	glucose-6-phosphate 1-dehydrogenase	0.813306
+HC01IgGpos_S2	eno	lmo2455	phosphopyruvate hydratase	0.724806
+HC01IgGpos_S2	rpsN	lmo2619	30S ribosomal protein S14	0.628415
+HC01IgGpos_S2		lmo1875	ABC transporter ATP-binding protein	0.506878
+HC01IgGpos_S2		lmo2689a	hypothetical protein	0.456349
+HC01IgGpos_S2	gatB	lmo1754	aspartyl/glutamyl-tRNA amidotransferase subunit B	0.407563
+HC01IgGpos_S2	rpsM	lmo2608	30S ribosomal protein S13	0.300275
+HC01IgGpos_S2	rpoB	lmo0258	DNA-directed RNA polymerase subunit beta	0.294482
+HC01IgGpos_S2	rpsE	lmo2615	30S ribosomal protein S5	0.213573
+HC01IgGpos_S2		lmo1853	heavy metal-transporting ATPase	0.191768
+HC01IgGpos_S2	rplX	lmo2621	50S ribosomal protein L24	0.187702
+HC01IgGpos_S2		lmo2215	ABC transporter ATP-binding protein	0.173333
+HC01IgGpos_S2	guaA	lmo1096	GMP synthase	0.161519
+HC01IgGpos_S2	rplD	lmo2631	50S ribosomal protein L4	0.157810
+HC01IgGpos_S2	PdhB	lmo1053	pyruvate dehydrogenase subunit E1 beta	0.150769
+HC01IgGpos_S2	leuS	lmo1660	leucyl-tRNA synthetase	0.130760
+HC01IgGpos_S2	rplC	lmo2632	50S ribosomal protein L3	0.118022
+HC01IgGpos_S2	groEL	lmo2068	molecular chaperone GroEL	0.107626
+HC01IgGpos_S2	rpoC	lmo0259	DNA-directed RNA polymerase subunit beta'	0.106023
+HC01IgGpos_S2	pdhC	lmo1054	dihydrolipoamide acetyltransferase	0.087623
+HC01IgGpos_S2	gap	lmo2459	glyceraldehyde-3-phosphate dehydrogenase	0.078373
+HC01IgGpos_S2	ftsH	lmo0220	cell division protein FtsH	0.074288
+HC01IgGpos_S2	pnpA	lmo1331	polynucleotide phosphorylase	0.070078
+HC01IgGpos_S2	glpK	lmo1538	glycerol kinase	0.061033
+HC01IgGpos_S2	rplW	lmo2630	50S ribosomal protein L23	0.053192
+HC01IgGpos_S2	prfC	lmo0988	peptide chain release factor 3	0.044700
+HC01IgGpos_S2	lepA	lmo1479	GTP-binding protein LepA	0.030702
+HC01IgGpos_S2	AckA2	lmo1168	acetate kinase	0.026028
+HC01IgGpos_S2		lmo0727	glucosamine--fructose-6-phosphate aminotransferase	0.025513
+HC01IgGpos_S2		lmo0866	ATP-dependent RNA helicase	0.024359
+HC01IgGpos_S2	carB	lmo1835	carbamoyl-phosphate synthetase	0.021807
+HC01IgGpos_S2	polC	lmo1320	DNA polymerase III PolC	0.015928
+HC02IgGneg_S3	tuf	lmo2653	elongation factor Tu	0.757806
+HC02IgGneg_S3	rplB	lmo2629	50S ribosomal protein L2	0.724428
+HC02IgGneg_S3		lmo0733	transcriptional regulator	0.272189
+HC02IgGneg_S3	rplA	lmo0249	50S ribosomal protein L1	0.190684
+HC02IgGneg_S3	atpD	lmo2529	ATP synthase F0F1 subunit beta	0.143059
+HC02IgGneg_S3	rplS	lmo1787	50S ribosomal protein L19	0.116959
+HC02IgGneg_S3	atpA	lmo2531	ATP synthase F0F1 subunit alpha	0.101852
+HC02IgGneg_S3	fus	lmo2654	elongation factor G	0.070504
+HC02IgGneg_S3		lmo1391	sugar ABC transporter permease	0.069620
+HC02IgGneg_S3		lmo2511	hypothetical protein	0.069519
+HC02IgGneg_S3	rpsB	lmo1658	30S ribosomal protein S2	0.062918
+HC02IgGneg_S3	groEL	lmo2068	molecular chaperone GroEL	0.061501
+HC02IgGneg_S3	pgk	lmo2458	phosphoglycerate kinase	0.060606
+HC02IgGneg_S3	pflB	lmo1406	pyruvate formate-lyase	0.053836
+HC02IgGneg_S3	tsf	lmo1657	elongation factor Ts	0.047619
+HC02IgGneg_S3	rplK	lmo0248	50S ribosomal protein L11	0.033097
+HC02IgGneg_S3	rpoC	lmo0259	DNA-directed RNA polymerase subunit beta'	0.023592
+HC02IgGneg_S3		lmo1978	glucose-6-phosphate 1-dehydrogenase	0.021724
+HC02IgGneg_S3		lmo1106	hypothetical protein	0.013480
+HC02IgGneg_S3	carB	lmo1835	carbamoyl-phosphate synthetase	0.013396
+HC02IgGneg_S3	secA	lmo2510	preprotein translocase subunit SecA	0.010753
+HC02IgGpos_S4	tuf	lmo2653	elongation factor Tu	28.650633
+HC02IgGpos_S4	rplB	lmo2629	50S ribosomal protein L2	15.979543
+HC02IgGpos_S4	rpmJ	lmo2609	50S ribosomal protein L36	14.747747
+HC02IgGpos_S4	rpsS	lmo2628	30S ribosomal protein S19	9.960145
+HC02IgGpos_S4	rpsB	lmo1658	30S ribosomal protein S2	8.348059
+HC02IgGpos_S4	rpsJ	lmo2633	30S ribosomal protein S10	7.630719
+HC02IgGpos_S4	atpA	lmo2531	ATP synthase F0F1 subunit alpha	4.394180
+HC02IgGpos_S4	rpmA	lmo1540	50S ribosomal protein L27	3.916667
+HC02IgGpos_S4		lmo2511	hypothetical protein	3.700535
+HC02IgGpos_S4		lmo1391	sugar ABC transporter permease	2.821730
+HC02IgGpos_S4	fus	lmo2654	elongation factor G	2.770264
+HC02IgGpos_S4	pgk	lmo2458	phosphoglycerate kinase	2.583333
+HC02IgGpos_S4		lmo1097a	hypothetical protein	2.505050
+HC02IgGpos_S4	tsf	lmo1657	elongation factor Ts	2.428571
+HC02IgGpos_S4	rplA	lmo0249	50S ribosomal protein L1	2.267831
+HC02IgGpos_S4	rpsH	lmo2618	30S ribosomal protein S8	2.212121
+HC02IgGpos_S4	pdhA	lmo1052	pyruvate dehydrogenase subunit E1 alpha	2.036837
+HC02IgGpos_S4	pflB	lmo1406	pyruvate formate-lyase	1.562135
+HC02IgGpos_S4	dnaK	lmo1473	molecular chaperone DnaK	1.506253
+HC02IgGpos_S4	rplK	lmo0248	50S ribosomal protein L11	1.399527
+HC02IgGpos_S4		lmo1978	glucose-6-phosphate 1-dehydrogenase	1.286490
+HC02IgGpos_S4		lmo1875	ABC transporter ATP-binding protein	1.028571
+HC02IgGpos_S4	gatB	lmo1754	aspartyl/glutamyl-tRNA amidotransferase subunit B	1.009804
+HC02IgGpos_S4	atpD	lmo2529	ATP synthase F0F1 subunit beta	0.995067
+HC02IgGpos_S4		lmo2703	hypothetical protein	0.726984
+HC02IgGpos_S4	rpsP	lmo1797	30S ribosomal protein S16	0.655555
+HC02IgGpos_S4	eno	lmo2455	phosphopyruvate hydratase	0.562791
+HC02IgGpos_S4	gap	lmo2459	glyceraldehyde-3-phosphate dehydrogenase	0.544643
+HC02IgGpos_S4	rpsM	lmo2608	30S ribosomal protein S13	0.537190
+HC02IgGpos_S4	groEL	lmo2068	molecular chaperone GroEL	0.451414
+HC02IgGpos_S4	rpoB	lmo0258	DNA-directed RNA polymerase subunit beta	0.437219
+HC02IgGpos_S4	pnpA	lmo1331	polynucleotide phosphorylase	0.391886
+HC02IgGpos_S4	rpsN	lmo2619	30S ribosomal protein S14	0.360656
+HC02IgGpos_S4	rpoC	lmo0259	DNA-directed RNA polymerase subunit beta'	0.314738
+HC02IgGpos_S4		lmo1853	heavy metal-transporting ATPase	0.250565
+HC02IgGpos_S4		lmo2215	ABC transporter ATP-binding protein	0.228000
+HC02IgGpos_S4		lmo1159	carboxysome structural protein	0.219780
+HC02IgGpos_S4	cspL	lmo1364	cold-shock protein	0.181818
+HC02IgGpos_S4	rplC	lmo2632	50S ribosomal protein L3	0.169059
+HC02IgGpos_S4		lmo0383	methylmalonate-semialdehyde dehydrogenase	0.127732
+HC02IgGpos_S4		lmo0107	ABC transporter ATP-binding protein	0.125913
+HC02IgGpos_S4	prfC	lmo0988	peptide chain release factor 3	0.124521
+HC02IgGpos_S4	rplF	lmo2617	50S ribosomal protein L6	0.114232
+HC02IgGpos_S4		lmo2251	amino acid ABC transporter ATP-binding protein	0.113416
+HC02IgGpos_S4	leuS	lmo1660	leucyl-tRNA synthetase	0.090909
+HC02IgGpos_S4		lmo2159	oxidoreductase	0.089780
+HC02IgGpos_S4	lepA	lmo1479	GTP-binding protein LepA	0.079496
+HC02IgGpos_S4	rpsL	lmo2656	30S ribosomal protein S12	0.075426
+HC02IgGpos_S4	rplD	lmo2631	50S ribosomal protein L4	0.062802
+HC02IgGpos_S4		lmo2411	hypothetical protein	0.057471
+HC02IgGpos_S4	glpK	lmo1538	glycerol kinase	0.048960
+HC02IgGpos_S4		lmo1611	aminopeptidase	0.048553
+HC02IgGpos_S4		lmo2434	glutamate decarboxylase	0.045682
+HC02IgGpos_S4		lmo1027	hypothetical protein	0.045646
+HC02IgGpos_S4	pdhC	lmo1054	dihydrolipoamide acetyltransferase	0.037378
+HC02IgGpos_S4		lmo1081	glucose-1-phosphate thymidyl transferase	0.037037
+HC02IgGpos_S4		lmo1799	peptidoglycan binding protein	0.031008
+HC02IgGpos_S4		lmo1106	hypothetical protein	0.027778
+HC02IgGpos_S4	ftsH	lmo0220	cell division protein FtsH	0.026049
+HC02IgGpos_S4		lmo0866	ATP-dependent RNA helicase	0.024359
+HC02IgGpos_S4		lmo2848	L-rhamnose isomerase	0.020635
+HC02IgGpos_S4		lmo2121	maltose phosphorylase	0.019920
+HC02IgGpos_S4	nifJ	lmo0829	pyruvate-flavodoxin oxidoreductase	0.019479
+HC02IgGpos_S4	ffh	lmo1801	signal recognition particle protein Ffh	0.019259
+HC02IgGpos_S4	polC	lmo1320	DNA polymerase III PolC	0.018698
+HC02IgGpos_S4	rplW	lmo2630	50S ribosomal protein L23	0.017730
+HC02IgGpos_S4		lmo0292	heat-shock protein htrA serine protease	0.017333
+HC02IgGpos_S4	uvrA	lmo2488	excinuclease ABC subunit A	0.014296
+HC03IgGneg_S5	tuf	lmo2653	elongation factor Tu	0.749367
+HC03IgGneg_S5	rpmJ	lmo2609	50S ribosomal protein L36	0.666667
+HC03IgGneg_S5	rpsM	lmo2608	30S ribosomal protein S13	0.314050
+HC03IgGneg_S5		lmo1159	carboxysome structural protein	0.219780
+HC03IgGneg_S5	rpsS	lmo2628	30S ribosomal protein S19	0.181159
+HC03IgGneg_S5		lmo1391	sugar ABC transporter permease	0.139240
+HC03IgGneg_S5	rpoB	lmo0258	DNA-directed RNA polymerase subunit beta	0.064752
+HC03IgGneg_S5	tsf	lmo1657	elongation factor Ts	0.047619
+HC03IgGneg_S5	fus	lmo2654	elongation factor G	0.045563
+HC03IgGneg_S5	uvrA	lmo2488	excinuclease ABC subunit A	0.044630
+HC03IgGneg_S5		lmo1081	glucose-1-phosphate thymidyl transferase	0.040509
+HC03IgGneg_S5		lmo0860	sugar ABC transporter permease	0.029680
+HC03IgGneg_S5	leuS	lmo1660	leucyl-tRNA synthetase	0.029058
+HC03IgGneg_S5	ffh	lmo1801	signal recognition particle protein Ffh	0.019259
+HC03IgGneg_S5	ileS	lmo2019	isoleucyl-tRNA synthetase	0.011582
+HC03IgGpos_S6	rpmJ	lmo2609	50S ribosomal protein L36	5.810811
+HC03IgGpos_S6	tuf	lmo2653	elongation factor Tu	3.668354
+HC03IgGpos_S6	rpsS	lmo2628	30S ribosomal protein S19	2.278986
+HC03IgGpos_S6	rplB	lmo2629	50S ribosomal protein L2	1.598075
+HC03IgGpos_S6	rplA	lmo0249	50S ribosomal protein L1	1.298399
+HC03IgGpos_S6	rpsB	lmo1658	30S ribosomal protein S2	1.191432
+HC03IgGpos_S6	rpmA	lmo1540	50S ribosomal protein L27	0.843750
+HC03IgGpos_S6	atpA	lmo2531	ATP synthase F0F1 subunit alpha	0.641534
+HC03IgGpos_S6		lmo1097a	hypothetical protein	0.525253
+HC03IgGpos_S6		lmo2511	hypothetical protein	0.427808
+HC03IgGpos_S6	rpsM	lmo2608	30S ribosomal protein S13	0.415978
+HC03IgGpos_S6	rpsJ	lmo2633	30S ribosomal protein S10	0.415033
+HC03IgGpos_S6	dnaK	lmo1473	molecular chaperone DnaK	0.357803
+HC03IgGpos_S6	rpsH	lmo2618	30S ribosomal protein S8	0.325758
+HC03IgGpos_S6	pgk	lmo2458	phosphoglycerate kinase	0.272727
+HC03IgGpos_S6		lmo1978	glucose-6-phosphate 1-dehydrogenase	0.268839
+HC03IgGpos_S6	tsf	lmo1657	elongation factor Ts	0.234694
+HC03IgGpos_S6	pdhA	lmo1052	pyruvate dehydrogenase subunit E1 alpha	0.222821
+HC03IgGpos_S6	fus	lmo2654	elongation factor G	0.200480
+HC03IgGpos_S6	rplL	lmo0251	50S ribosomal protein L7/L12	0.188889
+HC03IgGpos_S6		lmo1391	sugar ABC transporter permease	0.182489
+HC03IgGpos_S6	groEL	lmo2068	molecular chaperone GroEL	0.151906
+HC03IgGpos_S6	pflB	lmo1406	pyruvate formate-lyase	0.147600
+HC03IgGpos_S6	rpoC	lmo0259	DNA-directed RNA polymerase subunit beta'	0.142104
+HC03IgGpos_S6	gap	lmo2459	glyceraldehyde-3-phosphate dehydrogenase	0.131944
+HC03IgGpos_S6		lmo1875	ABC transporter ATP-binding protein	0.121164
+HC03IgGpos_S6	groES	lmo2069	co-chaperonin GroES	0.102837
+HC03IgGpos_S6	pnpA	lmo1331	polynucleotide phosphorylase	0.068234
+HC03IgGpos_S6	rpoB	lmo0258	DNA-directed RNA polymerase subunit beta	0.059966
+HC03IgGpos_S6		lmo0866	ATP-dependent RNA helicase	0.055128
+HC03IgGpos_S6	leuS	lmo1660	leucyl-tRNA synthetase	0.044002
+HC03IgGpos_S6	thrS	lmo1559	threonyl-tRNA synthetase	0.035417
+HC03IgGpos_S6	clpX	lmo1268	ATP-dependent protease ATP-binding subunit ClpX	0.024662
+HC03IgGpos_S6	secA	lmo2510	preprotein translocase subunit SecA	0.020709
+HC03IgGpos_S6		lmo1853	heavy metal-transporting ATPase	0.013569
+HC04IgGneg_S7	rpmJ	lmo2609	50S ribosomal protein L36	1.837838
+HC04IgGneg_S7	tuf	lmo2653	elongation factor Tu	1.122363
+HC04IgGneg_S7	rpsS	lmo2628	30S ribosomal protein S19	0.724638
+HC04IgGneg_S7	rpmA	lmo1540	50S ribosomal protein L27	0.343750
+HC04IgGneg_S7	rplB	lmo2629	50S ribosomal protein L2	0.332130
+HC04IgGneg_S7		lmo1391	sugar ABC transporter permease	0.277426
+HC04IgGneg_S7		lmo0733	transcriptional regulator	0.248521
+HC04IgGneg_S7	rplA	lmo0249	50S ribosomal protein L1	0.240175
+HC04IgGneg_S7	rplK	lmo0248	50S ribosomal protein L11	0.236407
+HC04IgGneg_S7		lmo2511	hypothetical protein	0.206774
+HC04IgGneg_S7		lmo2703	hypothetical protein	0.120635
+HC04IgGneg_S7	fus	lmo2654	elongation factor G	0.104077
+HC04IgGneg_S7	rpsM	lmo2608	30S ribosomal protein S13	0.082645
+HC04IgGneg_S7	atpD	lmo2529	ATP synthase F0F1 subunit beta	0.078929
+HC04IgGneg_S7	pgk	lmo2458	phosphoglycerate kinase	0.060606
+HC04IgGneg_S7	rpsB	lmo1658	30S ribosomal protein S2	0.058902
+HC04IgGneg_S7	rpoB	lmo0258	DNA-directed RNA polymerase subunit beta	0.048705
+HC04IgGneg_S7		lmo1853	heavy metal-transporting ATPase	0.045228
+HC04IgGneg_S7	atpA	lmo2531	ATP synthase F0F1 subunit alpha	0.042328
+HC04IgGneg_S7	groEL	lmo2068	molecular chaperone GroEL	0.041205
+HC04IgGneg_S7		lmo1081	glucose-1-phosphate thymidyl transferase	0.040509
+HC04IgGneg_S7	dnaK	lmo1473	molecular chaperone DnaK	0.039152
+HC04IgGneg_S7	ffh	lmo1801	signal recognition particle protein Ffh	0.038518
+HC04IgGneg_S7	eno	lmo2455	phosphopyruvate hydratase	0.034884
+HC04IgGneg_S7	rpoC	lmo0259	DNA-directed RNA polymerase subunit beta'	0.029698
+HC04IgGneg_S7		lmo1431	ABC transporter ATP-binding protein	0.029393
+HC04IgGneg_S7	polC	lmo1320	DNA polymerase III PolC	0.024931
+HC04IgGneg_S7		lmo1978	glucose-6-phosphate 1-dehydrogenase	0.021724
+HC04IgGpos_S8	tuf	lmo2653	elongation factor Tu	31.997469
+HC04IgGpos_S8	rpmJ	lmo2609	50S ribosomal protein L36	29.036036
+HC04IgGpos_S8	rplB	lmo2629	50S ribosomal protein L2	21.315283
+HC04IgGpos_S8	rpsS	lmo2628	30S ribosomal protein S19	12.286232
+HC04IgGpos_S8	rpsB	lmo1658	30S ribosomal protein S2	9.274431
+HC04IgGpos_S8	rpmA	lmo1540	50S ribosomal protein L27	6.954861
+HC04IgGpos_S8	rpsJ	lmo2633	30S ribosomal protein S10	6.428104
+HC04IgGpos_S8		lmo2511	hypothetical protein	5.682709
+HC04IgGpos_S8	atpA	lmo2531	ATP synthase F0F1 subunit alpha	5.656746
+HC04IgGpos_S8		lmo1097a	hypothetical protein	4.297980
+HC04IgGpos_S8	rplA	lmo0249	50S ribosomal protein L1	4.193595
+HC04IgGpos_S8	fus	lmo2654	elongation factor G	4.087770
+HC04IgGpos_S8	tsf	lmo1657	elongation factor Ts	3.781179
+HC04IgGpos_S8	dnaK	lmo1473	molecular chaperone DnaK	2.800979
+HC04IgGpos_S8		lmo2703	hypothetical protein	2.657143
+HC04IgGpos_S8	rplK	lmo0248	50S ribosomal protein L11	2.638298
+HC04IgGpos_S8	rpsH	lmo2618	30S ribosomal protein S8	2.434343
+HC04IgGpos_S8	pdhA	lmo1052	pyruvate dehydrogenase subunit E1 alpha	2.373765
+HC04IgGpos_S8	pflB	lmo1406	pyruvate formate-lyase	2.195603
+HC04IgGpos_S8	pgk	lmo2458	phosphoglycerate kinase	2.152357
+HC04IgGpos_S8		lmo1391	sugar ABC transporter permease	2.144515
+HC04IgGpos_S8		lmo1978	glucose-6-phosphate 1-dehydrogenase	1.962661
+HC04IgGpos_S8		lmo1875	ABC transporter ATP-binding protein	1.117460
+HC04IgGpos_S8	eno	lmo2455	phosphopyruvate hydratase	0.990698
+HC04IgGpos_S8	gap	lmo2459	glyceraldehyde-3-phosphate dehydrogenase	0.860119
+HC04IgGpos_S8	atpD	lmo2529	ATP synthase F0F1 subunit beta	0.823820
+HC04IgGpos_S8	gatB	lmo1754	aspartyl/glutamyl-tRNA amidotransferase subunit B	0.689776
+HC04IgGpos_S8	rpsM	lmo2608	30S ribosomal protein S13	0.550964
+HC04IgGpos_S8	rpoB	lmo0258	DNA-directed RNA polymerase subunit beta	0.546171
+HC04IgGpos_S8		lmo1853	heavy metal-transporting ATPase	0.407056
+HC04IgGpos_S8	rpsP	lmo1797	30S ribosomal protein S16	0.340741
+HC04IgGpos_S8	pnpA	lmo1331	polynucleotide phosphorylase	0.339788
+HC04IgGpos_S8	rplF	lmo2617	50S ribosomal protein L6	0.337079
+HC04IgGpos_S8		lmo2689a	hypothetical protein	0.250000
+HC04IgGpos_S8	leuS	lmo1660	leucyl-tRNA synthetase	0.249066
+HC04IgGpos_S8	groEL	lmo2068	molecular chaperone GroEL	0.196802
+HC04IgGpos_S8	rpoC	lmo0259	DNA-directed RNA polymerase subunit beta'	0.194005
+HC04IgGpos_S8	rplC	lmo2632	50S ribosomal protein L3	0.167464
+HC04IgGpos_S8		lmo0866	ATP-dependent RNA helicase	0.133974
+HC04IgGpos_S8		lmo0107	ABC transporter ATP-binding protein	0.132659
+HC04IgGpos_S8	pdhC	lmo1054	dihydrolipoamide acetyltransferase	0.108456
+HC04IgGpos_S8	groES	lmo2069	co-chaperonin GroES	0.102837
+HC04IgGpos_S8		lmo1027	hypothetical protein	0.063664
+HC04IgGpos_S8		lmo0383	methylmalonate-semialdehyde dehydrogenase	0.047131
+HC04IgGpos_S8		lmo2159	oxidoreductase	0.044890
+HC04IgGpos_S8	prfC	lmo0988	peptide chain release factor 3	0.044700
+HC04IgGpos_S8	glpK	lmo1538	glycerol kinase	0.042253
+HC04IgGpos_S8	PdhB	lmo1053	pyruvate dehydrogenase subunit E1 beta	0.038974
+HC04IgGpos_S8	tcsA	lmo1388	CD4+ T cell-stimulating antigen, lipoprotein	0.028945
+HC04IgGpos_S8	polC	lmo1320	DNA polymerase III PolC	0.019621
+HC05IgGneg_S9	tuf	lmo2653	elongation factor Tu	1.714768
+HC05IgGneg_S9	rplB	lmo2629	50S ribosomal protein L2	1.392299
+HC05IgGneg_S9	rpmJ	lmo2609	50S ribosomal protein L36	0.666667
+HC05IgGneg_S9	rpmA	lmo1540	50S ribosomal protein L27	0.552083
+HC05IgGneg_S9	rpsB	lmo1658	30S ribosomal protein S2	0.522088
+HC05IgGneg_S9	rpsS	lmo2628	30S ribosomal protein S19	0.503623
+HC05IgGneg_S9		lmo1391	sugar ABC transporter permease	0.385021
+HC05IgGneg_S9		lmo2511	hypothetical protein	0.345811
+HC05IgGneg_S9	atpD	lmo2529	ATP synthase F0F1 subunit beta	0.300916
+HC05IgGneg_S9	gap	lmo2459	glyceraldehyde-3-phosphate dehydrogenase	0.252976
+HC05IgGneg_S9	dnaK	lmo1473	molecular chaperone DnaK	0.231648
+HC05IgGneg_S9		lmo1097a	hypothetical protein	0.227273
+HC05IgGneg_S9	atpA	lmo2531	ATP synthase F0F1 subunit alpha	0.196429
+HC05IgGneg_S9	tsf	lmo1657	elongation factor Ts	0.179138
+HC05IgGneg_S9	fus	lmo2654	elongation factor G	0.173621
+HC05IgGneg_S9	pflB	lmo1406	pyruvate formate-lyase	0.131898
+HC05IgGneg_S9	pdhA	lmo1052	pyruvate dehydrogenase subunit E1 alpha	0.110512
+HC05IgGneg_S9		lmo1978	glucose-6-phosphate 1-dehydrogenase	0.087576
+HC05IgGneg_S9		lmo1875	ABC transporter ATP-binding protein	0.076720
+HC05IgGneg_S9		lmo1081	glucose-1-phosphate thymidyl transferase	0.065972
+HC05IgGneg_S9	pgk	lmo2458	phosphoglycerate kinase	0.062290
+HC05IgGneg_S9	rpoB	lmo0258	DNA-directed RNA polymerase subunit beta	0.049550
+HC05IgGneg_S9		lmo1853	heavy metal-transporting ATPase	0.029399
+HC05IgGneg_S9	secA	lmo2510	preprotein translocase subunit SecA	0.023895
+HC05IgGneg_S9	lepA	lmo1479	GTP-binding protein LepA	0.013706
+HC05IgGneg_S9		lmo0841	calcium-transporting ATPase	0.012121
+HC05IgGpos_S10	rpmJ	lmo2609	50S ribosomal protein L36	38.468468
+HC05IgGpos_S10	tuf	lmo2653	elongation factor Tu	37.160339
+HC05IgGpos_S10	rplB	lmo2629	50S ribosomal protein L2	22.188929
+HC05IgGpos_S10	rpsS	lmo2628	30S ribosomal protein S19	13.144928
+HC05IgGpos_S10	rpsJ	lmo2633	30S ribosomal protein S10	11.673203
+HC05IgGpos_S10	rpsB	lmo1658	30S ribosomal protein S2	10.981258
+HC05IgGpos_S10	atpA	lmo2531	ATP synthase F0F1 subunit alpha	6.173280
+HC05IgGpos_S10		lmo2511	hypothetical protein	5.122994
+HC05IgGpos_S10	rpmA	lmo1540	50S ribosomal protein L27	4.243055
+HC05IgGpos_S10	fus	lmo2654	elongation factor G	4.237890
+HC05IgGpos_S10	rplA	lmo0249	50S ribosomal protein L1	4.021834
+HC05IgGpos_S10	rplK	lmo0248	50S ribosomal protein L11	3.319149
+HC05IgGpos_S10		lmo1097a	hypothetical protein	3.318182
+HC05IgGpos_S10		lmo1391	sugar ABC transporter permease	2.543249
+HC05IgGpos_S10	dnaK	lmo1473	molecular chaperone DnaK	2.470364
+HC05IgGpos_S10	tsf	lmo1657	elongation factor Ts	2.439909
+HC05IgGpos_S10	pgk	lmo2458	phosphoglycerate kinase	2.380472
+HC05IgGpos_S10	pflB	lmo1406	pyruvate formate-lyase	2.172723
+HC05IgGpos_S10		lmo2703	hypothetical protein	2.120635
+HC05IgGpos_S10	atpD	lmo2529	ATP synthase F0F1 subunit beta	1.661734
+HC05IgGpos_S10	pdhA	lmo1052	pyruvate dehydrogenase subunit E1 alpha	1.658580
+HC05IgGpos_S10		lmo1978	glucose-6-phosphate 1-dehydrogenase	1.588595
+HC05IgGpos_S10	rpsN	lmo2619	30S ribosomal protein S14	1.480874
+HC05IgGpos_S10	eno	lmo2455	phosphopyruvate hydratase	1.444186
+HC05IgGpos_S10	rpsH	lmo2618	30S ribosomal protein S8	0.992424
+HC05IgGpos_S10		lmo1875	ABC transporter ATP-binding protein	0.842328
+HC05IgGpos_S10	rpsM	lmo2608	30S ribosomal protein S13	0.818182
+HC05IgGpos_S10	rplC	lmo2632	50S ribosomal protein L3	0.797448
+HC05IgGpos_S10	gap	lmo2459	glyceraldehyde-3-phosphate dehydrogenase	0.700397
+HC05IgGpos_S10	gatB	lmo1754	aspartyl/glutamyl-tRNA amidotransferase subunit B	0.670868
+HC05IgGpos_S10	pnpA	lmo1331	polynucleotide phosphorylase	0.602582
+HC05IgGpos_S10		lmo2689a	hypothetical protein	0.551587
+HC05IgGpos_S10	rpoB	lmo0258	DNA-directed RNA polymerase subunit beta	0.474381
+HC05IgGpos_S10	leuS	lmo1660	leucyl-tRNA synthetase	0.438356
+HC05IgGpos_S10		lmo1853	heavy metal-transporting ATPase	0.410222
+HC05IgGpos_S10		lmo0866	ATP-dependent RNA helicase	0.292308
+HC05IgGpos_S10	rpoC	lmo0259	DNA-directed RNA polymerase subunit beta'	0.285040
+HC05IgGpos_S10	groEL	lmo2068	molecular chaperone GroEL	0.283518
+HC05IgGpos_S10		lmo0107	ABC transporter ATP-binding protein	0.207420
+HC05IgGpos_S10		lmo2215	ABC transporter ATP-binding protein	0.176000
+HC05IgGpos_S10	glpK	lmo1538	glycerol kinase	0.169685
+HC05IgGpos_S10	lepA	lmo1479	GTP-binding protein LepA	0.149671
+HC05IgGpos_S10		lmo1027	hypothetical protein	0.117718
+HC05IgGpos_S10	pdhC	lmo1054	dihydrolipoamide acetyltransferase	0.087623
+HC05IgGpos_S10	polC	lmo1320	DNA polymerase III PolC	0.072484
+HC05IgGpos_S10	rplD	lmo2631	50S ribosomal protein L4	0.062802
+HC05IgGpos_S10	prfC	lmo0988	peptide chain release factor 3	0.044700
+HC05IgGpos_S10	priA	lmo1824	primosome assembly protein PriA	0.042242
+HC05IgGpos_S10		lmo1799	peptidoglycan binding protein	0.032484
+HC05IgGpos_S10	ileS	lmo2019	isoleucyl-tRNA synthetase	0.020992
+HC05IgGpos_S10		lmo2411	hypothetical protein	0.020833
+HC05IgGpos_S10		lmo2848	L-rhamnose isomerase	0.020635
+HC05IgGpos_S10		lmo0383	methylmalonate-semialdehyde dehydrogenase	0.017760
+HC05IgGpos_S10	rplW	lmo2630	50S ribosomal protein L23	0.017730
+HC05IgGpos_S10		lmo0841	calcium-transporting ATPase	0.012121
+HC06IgGneg_S11	tuf	lmo2653	elongation factor Tu	1.129958
+HC06IgGneg_S11	rpsB	lmo1658	30S ribosomal protein S2	0.190094
+HC06IgGneg_S11	rplS	lmo1787	50S ribosomal protein L19	0.116959
+HC06IgGneg_S11	ftsH	lmo0220	cell division protein FtsH	0.076700
+HC06IgGneg_S11	dnaK	lmo1473	molecular chaperone DnaK	0.064709
+HC06IgGneg_S11	rplD	lmo2631	50S ribosomal protein L4	0.062802
+HC06IgGneg_S11		lmo1081	glucose-1-phosphate thymidyl transferase	0.060185
+HC06IgGneg_S11	pflB	lmo1406	pyruvate formate-lyase	0.057874
+HC06IgGneg_S11	rplB	lmo2629	50S ribosomal protein L2	0.033694
+HC06IgGneg_S11	atpA	lmo2531	ATP synthase F0F1 subunit alpha	0.027116
+HC06IgGneg_S11	fus	lmo2654	elongation factor G	0.025899
+HC06IgGneg_S11	rplW	lmo2630	50S ribosomal protein L23	0.017730
+HC06IgGneg_S11	rpoB	lmo0258	DNA-directed RNA polymerase subunit beta	0.010698
+HC06IgGpos_S12	tuf	lmo2653	elongation factor Tu	25.021097
+HC06IgGpos_S12	rpmJ	lmo2609	50S ribosomal protein L36	23.621622
+HC06IgGpos_S12	rplB	lmo2629	50S ribosomal protein L2	18.945849
+HC06IgGpos_S12	rpsS	lmo2628	30S ribosomal protein S19	10.605072
+HC06IgGpos_S12	rpsJ	lmo2633	30S ribosomal protein S10	8.349673
+HC06IgGpos_S12	rpsB	lmo1658	30S ribosomal protein S2	6.058902
+HC06IgGpos_S12	atpA	lmo2531	ATP synthase F0F1 subunit alpha	4.155423
+HC06IgGpos_S12		lmo2511	hypothetical protein	3.702317
+HC06IgGpos_S12	fus	lmo2654	elongation factor G	3.634533
+HC06IgGpos_S12		lmo1391	sugar ABC transporter permease	3.441983
+HC06IgGpos_S12	rplA	lmo0249	50S ribosomal protein L1	3.342067
+HC06IgGpos_S12	tsf	lmo1657	elongation factor Ts	2.832200
+HC06IgGpos_S12		lmo1097a	hypothetical protein	2.449495
+HC06IgGpos_S12	rpmA	lmo1540	50S ribosomal protein L27	2.347222
+HC06IgGpos_S12	pflB	lmo1406	pyruvate formate-lyase	2.140422
+HC06IgGpos_S12	pdhA	lmo1052	pyruvate dehydrogenase subunit E1 alpha	2.065589
+HC06IgGpos_S12	pgk	lmo2458	phosphoglycerate kinase	1.756734
+HC06IgGpos_S12		lmo1978	glucose-6-phosphate 1-dehydrogenase	1.570265
+HC06IgGpos_S12	dnaK	lmo1473	molecular chaperone DnaK	1.498097
+HC06IgGpos_S12	atpD	lmo2529	ATP synthase F0F1 subunit beta	1.334038
+HC06IgGpos_S12	rpsH	lmo2618	30S ribosomal protein S8	0.949495
+HC06IgGpos_S12		lmo2703	hypothetical protein	0.901587
+HC06IgGpos_S12	eno	lmo2455	phosphopyruvate hydratase	0.857364
+HC06IgGpos_S12		lmo1875	ABC transporter ATP-binding protein	0.719577
+HC06IgGpos_S12	gap	lmo2459	glyceraldehyde-3-phosphate dehydrogenase	0.675595
+HC06IgGpos_S12	rpoB	lmo0258	DNA-directed RNA polymerase subunit beta	0.641329
+HC06IgGpos_S12	rplK	lmo0248	50S ribosomal protein L11	0.598109
+HC06IgGpos_S12	pnpA	lmo1331	polynucleotide phosphorylase	0.596588
+HC06IgGpos_S12	rpsM	lmo2608	30S ribosomal protein S13	0.482094
+HC06IgGpos_S12	gatB	lmo1754	aspartyl/glutamyl-tRNA amidotransferase subunit B	0.476891
+HC06IgGpos_S12		lmo2689a	hypothetical protein	0.460317
+HC06IgGpos_S12	rpsN	lmo2619	30S ribosomal protein S14	0.360656
+HC06IgGpos_S12		lmo1853	heavy metal-transporting ATPase	0.304839
+HC06IgGpos_S12	groEL	lmo2068	molecular chaperone GroEL	0.283518
+HC06IgGpos_S12	ftsH	lmo0220	cell division protein FtsH	0.273999
+HC06IgGpos_S12	leuS	lmo1660	leucyl-tRNA synthetase	0.185139
+HC06IgGpos_S12	rplC	lmo2632	50S ribosomal protein L3	0.169059
+HC06IgGpos_S12	rplF	lmo2617	50S ribosomal protein L6	0.162921
+HC06IgGpos_S12	rpoC	lmo0259	DNA-directed RNA polymerase subunit beta'	0.160699
+HC06IgGpos_S12	rplP	lmo2625	50S ribosomal protein L16	0.138889
+HC06IgGpos_S12	glpK	lmo1538	glycerol kinase	0.122736
+HC06IgGpos_S12		lmo0107	ABC transporter ATP-binding protein	0.075323
+HC06IgGpos_S12		lmo0866	ATP-dependent RNA helicase	0.071154
+HC06IgGpos_S12		lmo0383	methylmalonate-semialdehyde dehydrogenase	0.067623
+HC06IgGpos_S12	polC	lmo1320	DNA polymerase III PolC	0.057017
+HC06IgGpos_S12		lmo2434	glutamate decarboxylase	0.049251
+HC06IgGpos_S12	guaB	lmo2758	inosine-monophosphate dehydrogenase	0.049180
+HC06IgGpos_S12		lmo1067	GTP-binding elongation factor	0.045207
+HC06IgGpos_S12	prfC	lmo0988	peptide chain release factor 3	0.041507
+HC06IgGpos_S12		lmo1027	hypothetical protein	0.036036
+HC06IgGpos_S12	tcsA	lmo1388	CD4+ T cell-stimulating antigen, lipoprotein	0.029879
+HC06IgGpos_S12	gidA	lmo2810	tRNA uridine 5-carboxymethylaminomethyl modification enzyme GidA	0.023317
+HC06IgGpos_S12		lmo1799	peptidoglycan binding protein	0.010336
+HC07IgGneg_S13	tuf	lmo2653	elongation factor Tu	1.931645
+HC07IgGneg_S13	rpmJ	lmo2609	50S ribosomal protein L36	1.855856
+HC07IgGneg_S13	rpsJ	lmo2633	30S ribosomal protein S10	1.137255
+HC07IgGneg_S13	rplB	lmo2629	50S ribosomal protein L2	0.814681
+HC07IgGneg_S13	rpsS	lmo2628	30S ribosomal protein S19	0.684783
+HC07IgGneg_S13	atpD	lmo2529	ATP synthase F0F1 subunit beta	0.606765
+HC07IgGneg_S13		lmo2511	hypothetical protein	0.413547
+HC07IgGneg_S13	rpsB	lmo1658	30S ribosomal protein S2	0.370817
+HC07IgGneg_S13	atpA	lmo2531	ATP synthase F0F1 subunit alpha	0.283730
+HC07IgGneg_S13	rpmA	lmo1540	50S ribosomal protein L27	0.263889
+HC07IgGneg_S13	pdhA	lmo1052	pyruvate dehydrogenase subunit E1 alpha	0.251572
+HC07IgGneg_S13	fus	lmo2654	elongation factor G	0.164988
+HC07IgGneg_S13	pflB	lmo1406	pyruvate formate-lyase	0.143562
+HC07IgGneg_S13	ftsH	lmo0220	cell division protein FtsH	0.125422
+HC07IgGneg_S13	pgk	lmo2458	phosphoglycerate kinase	0.121212
+HC07IgGneg_S13		lmo2703	hypothetical protein	0.120635
+HC07IgGneg_S13	tsf	lmo1657	elongation factor Ts	0.119048
+HC07IgGneg_S13		lmo1978	glucose-6-phosphate 1-dehydrogenase	0.074677
+HC07IgGneg_S13	dnaK	lmo1473	molecular chaperone DnaK	0.074497
+HC07IgGneg_S13		lmo1391	sugar ABC transporter permease	0.069620
+HC07IgGneg_S13		lmo0278	sugar ABC transporter ATP-binding protein	0.060109
+HC07IgGneg_S13	leuS	lmo1660	leucyl-tRNA synthetase	0.054379
+HC07IgGneg_S13	groEL	lmo2068	molecular chaperone GroEL	0.034440
+HC07IgGneg_S13	lepA	lmo1479	GTP-binding protein LepA	0.030702
+HC07IgGneg_S13	rpoC	lmo0259	DNA-directed RNA polymerase subunit beta'	0.022759
+HC07IgGneg_S13		lmo1799	peptidoglycan binding protein	0.021779
+HC07IgGneg_S13		lmo1875	ABC transporter ATP-binding protein	0.015344
+HC07IgGneg_S13	priA	lmo1824	primosome assembly protein PriA	0.013383
+HC07IgGpos_S14	tuf	lmo2653	elongation factor Tu	33.804218
+HC07IgGpos_S14	rpmJ	lmo2609	50S ribosomal protein L36	30.459459
+HC07IgGpos_S14	rplB	lmo2629	50S ribosomal protein L2	22.884476
+HC07IgGpos_S14	rpsS	lmo2628	30S ribosomal protein S19	14.264493
+HC07IgGpos_S14	rpsB	lmo1658	30S ribosomal protein S2	10.855422
+HC07IgGpos_S14		lmo2511	hypothetical protein	7.750446
+HC07IgGpos_S14	atpA	lmo2531	ATP synthase F0F1 subunit alpha	7.493386
+HC07IgGpos_S14	rpsJ	lmo2633	30S ribosomal protein S10	5.346405
+HC07IgGpos_S14	rplA	lmo0249	50S ribosomal protein L1	4.542940
+HC07IgGpos_S14	fus	lmo2654	elongation factor G	4.367386
+HC07IgGpos_S14		lmo1391	sugar ABC transporter permease	4.087553
+HC07IgGpos_S14	rpsH	lmo2618	30S ribosomal protein S8	3.982323
+HC07IgGpos_S14	tsf	lmo1657	elongation factor Ts	3.425170
+HC07IgGpos_S14	rplK	lmo0248	50S ribosomal protein L11	3.255319
+HC07IgGpos_S14	dnaK	lmo1473	molecular chaperone DnaK	3.152800
+HC07IgGpos_S14	rpmA	lmo1540	50S ribosomal protein L27	2.430556
+HC07IgGpos_S14	pflB	lmo1406	pyruvate formate-lyase	2.410947
+HC07IgGpos_S14	pgk	lmo2458	phosphoglycerate kinase	2.369528
+HC07IgGpos_S14		lmo1097a	hypothetical protein	2.358586
+HC07IgGpos_S14	eno	lmo2455	phosphopyruvate hydratase	2.032558
+HC07IgGpos_S14	atpD	lmo2529	ATP synthase F0F1 subunit beta	2.005638
+HC07IgGpos_S14	pdhA	lmo1052	pyruvate dehydrogenase subunit E1 alpha	1.856244
+HC07IgGpos_S14		lmo1978	glucose-6-phosphate 1-dehydrogenase	1.731840
+HC07IgGpos_S14	gatB	lmo1754	aspartyl/glutamyl-tRNA amidotransferase subunit B	1.411064
+HC07IgGpos_S14		lmo1875	ABC transporter ATP-binding protein	1.374603
+HC07IgGpos_S14	rpoB	lmo0258	DNA-directed RNA polymerase subunit beta	1.060811
+HC07IgGpos_S14	rpsM	lmo2608	30S ribosomal protein S13	0.730028
+HC07IgGpos_S14	pnpA	lmo1331	polynucleotide phosphorylase	0.576763
+HC07IgGpos_S14		lmo2703	hypothetical protein	0.482540
+HC07IgGpos_S14	gap	lmo2459	glyceraldehyde-3-phosphate dehydrogenase	0.409722
+HC07IgGpos_S14		lmo1853	heavy metal-transporting ATPase	0.403437
+HC07IgGpos_S14	rpsN	lmo2619	30S ribosomal protein S14	0.349727
+HC07IgGpos_S14		lmo0107	ABC transporter ATP-binding protein	0.346262
+HC07IgGpos_S14	ftsH	lmo0220	cell division protein FtsH	0.268693
+HC07IgGpos_S14	leuS	lmo1660	leucyl-tRNA synthetase	0.247821
+HC07IgGpos_S14	groEL	lmo2068	molecular chaperone GroEL	0.243542
+HC07IgGpos_S14	rpoC	lmo0259	DNA-directed RNA polymerase subunit beta'	0.234804
+HC07IgGpos_S14	groES	lmo2069	co-chaperonin GroES	0.205674
+HC07IgGpos_S14	rplC	lmo2632	50S ribosomal protein L3	0.167464
+HC07IgGpos_S14	PdhB	lmo1053	pyruvate dehydrogenase subunit E1 beta	0.150769
+HC07IgGpos_S14	prfC	lmo0988	peptide chain release factor 3	0.132184
+HC07IgGpos_S14	guaA	lmo1096	GMP synthase	0.096525
+HC07IgGpos_S14		lmo0097	PTS mannose transporter subunit IIC	0.079602
+HC07IgGpos_S14	rpoD	lmo1454	RNA polymerase sigma factor RpoD	0.070410
+HC07IgGpos_S14	glpK	lmo1538	glycerol kinase	0.067740
+HC07IgGpos_S14	rpsK	lmo2607	30S ribosomal protein S11	0.067183
+HC07IgGpos_S14	gidA	lmo2810	tRNA uridine 5-carboxymethylaminomethyl modification enzyme GidA	0.060413
+HC07IgGpos_S14		lmo0383	methylmalonate-semialdehyde dehydrogenase	0.059426
+HC07IgGpos_S14		lmo2411	hypothetical protein	0.057471
+HC07IgGpos_S14		lmo0866	ATP-dependent RNA helicase	0.038462
+HC07IgGpos_S14	lepA	lmo1479	GTP-binding protein LepA	0.030702
+HC07IgGpos_S14		lmo1611	aminopeptidase	0.024276
+HC07IgGpos_S14		lmo0261	phospho-beta-glucosidase	0.021262
+HC07IgGpos_S14	ileS	lmo2019	isoleucyl-tRNA synthetase	0.020992
+HC07IgGpos_S14	polC	lmo1320	DNA polymerase III PolC	0.019621
+HC09IgGneg_S15	tuf	lmo2653	elongation factor Tu	0.857384
+HC09IgGneg_S15	rpsJ	lmo2633	30S ribosomal protein S10	0.594771
+HC09IgGneg_S15	atpD	lmo2529	ATP synthase F0F1 subunit beta	0.412967
+HC09IgGneg_S15	gap	lmo2459	glyceraldehyde-3-phosphate dehydrogenase	0.391865
+HC09IgGneg_S15	fus	lmo2654	elongation factor G	0.345324
+HC09IgGneg_S15	lepA	lmo1479	GTP-binding protein LepA	0.309210
+HC09IgGneg_S15	rpsS	lmo2628	30S ribosomal protein S19	0.181159
+HC09IgGneg_S15	rplK	lmo0248	50S ribosomal protein L11	0.153664
+HC09IgGneg_S15	rplB	lmo2629	50S ribosomal protein L2	0.148014
+HC09IgGneg_S15	atpA	lmo2531	ATP synthase F0F1 subunit alpha	0.139550
+HC09IgGneg_S15	pdhA	lmo1052	pyruvate dehydrogenase subunit E1 alpha	0.119497
+HC09IgGneg_S15	tcsA	lmo1388	CD4+ T cell-stimulating antigen, lipoprotein	0.092437
+HC09IgGneg_S15	pflB	lmo1406	pyruvate formate-lyase	0.069538
+HC09IgGneg_S15		lmo2511	hypothetical protein	0.069519
+HC09IgGneg_S15	tsf	lmo1657	elongation factor Ts	0.047619
+HC09IgGneg_S15		lmo1853	heavy metal-transporting ATPase	0.047490
+HC09IgGneg_S15	pgk	lmo2458	phosphoglycerate kinase	0.030303
+HC09IgGneg_S15		lmo1978	glucose-6-phosphate 1-dehydrogenase	0.021724
+HC09IgGneg_S15	ffh	lmo1801	signal recognition particle protein Ffh	0.019259
+HC09IgGpos_S16	rpmJ	lmo2609	50S ribosomal protein L36	28.252253
+HC09IgGpos_S16	tuf	lmo2653	elongation factor Tu	28.196625
+HC09IgGpos_S16	rplB	lmo2629	50S ribosomal protein L2	14.987967
+HC09IgGpos_S16	rpsS	lmo2628	30S ribosomal protein S19	8.873188
+HC09IgGpos_S16	rpsJ	lmo2633	30S ribosomal protein S10	6.830065
+HC09IgGpos_S16	rplA	lmo0249	50S ribosomal protein L1	6.618632
+HC09IgGpos_S16	rpsB	lmo1658	30S ribosomal protein S2	5.408300
+HC09IgGpos_S16	fus	lmo2654	elongation factor G	4.061871
+HC09IgGpos_S16	atpA	lmo2531	ATP synthase F0F1 subunit alpha	3.978836
+HC09IgGpos_S16	rpmA	lmo1540	50S ribosomal protein L27	3.736111
+HC09IgGpos_S16		lmo2511	hypothetical protein	3.691622
+HC09IgGpos_S16	tsf	lmo1657	elongation factor Ts	2.790249
+HC09IgGpos_S16		lmo1097a	hypothetical protein	2.666667
+HC09IgGpos_S16		lmo1391	sugar ABC transporter permease	2.618144
+HC09IgGpos_S16	rpsH	lmo2618	30S ribosomal protein S8	2.530303
+HC09IgGpos_S16	dnaK	lmo1473	molecular chaperone DnaK	2.514954
+HC09IgGpos_S16	atpD	lmo2529	ATP synthase F0F1 subunit beta	2.115574
+HC09IgGpos_S16	pgk	lmo2458	phosphoglycerate kinase	1.786195
+HC09IgGpos_S16		lmo2703	hypothetical protein	1.784127
+HC09IgGpos_S16	eno	lmo2455	phosphopyruvate hydratase	1.638760
+HC09IgGpos_S16	pdhA	lmo1052	pyruvate dehydrogenase subunit E1 alpha	1.540881
+HC09IgGpos_S16	rplK	lmo0248	50S ribosomal protein L11	1.458629
+HC09IgGpos_S16		lmo1978	glucose-6-phosphate 1-dehydrogenase	1.277665
+HC09IgGpos_S16	pflB	lmo1406	pyruvate formate-lyase	1.130103
+HC09IgGpos_S16	gatB	lmo1754	aspartyl/glutamyl-tRNA amidotransferase subunit B	1.025910
+HC09IgGpos_S16		lmo1875	ABC transporter ATP-binding protein	0.809524
+HC09IgGpos_S16	gap	lmo2459	glyceraldehyde-3-phosphate dehydrogenase	0.808532
+HC09IgGpos_S16	rpsP	lmo1797	30S ribosomal protein S16	0.540741
+HC09IgGpos_S16	rpoC	lmo0259	DNA-directed RNA polymerase subunit beta'	0.387177
+HC09IgGpos_S16	rpoB	lmo0258	DNA-directed RNA polymerase subunit beta	0.368243
+HC09IgGpos_S16		lmo1853	heavy metal-transporting ATPase	0.360018
+HC09IgGpos_S16	pnpA	lmo1331	polynucleotide phosphorylase	0.351314
+HC09IgGpos_S16		lmo2215	ABC transporter ATP-binding protein	0.314667
+HC09IgGpos_S16	groEL	lmo2068	molecular chaperone GroEL	0.268758
+HC09IgGpos_S16		lmo0107	ABC transporter ATP-binding protein	0.259134
+HC09IgGpos_S16	groES	lmo2069	co-chaperonin GroES	0.205674
+HC09IgGpos_S16	rpsM	lmo2608	30S ribosomal protein S13	0.192837
+HC09IgGpos_S16		lmo0866	ATP-dependent RNA helicase	0.167308
+HC09IgGpos_S16		lmo2434	glutamate decarboxylase	0.140614
+HC09IgGpos_S16	rplD	lmo2631	50S ribosomal protein L4	0.125604
+HC09IgGpos_S16	glpK	lmo1538	glycerol kinase	0.109993
+HC09IgGpos_S16		lmo0369	hypothetical protein	0.105997
+HC09IgGpos_S16		lmo2159	oxidoreductase	0.089780
+HC09IgGpos_S16	rpsL	lmo2656	30S ribosomal protein S12	0.087591
+HC09IgGpos_S16	lepA	lmo1479	GTP-binding protein LepA	0.068531
+HC09IgGpos_S16	infB	lmo1325	translation initiation factor IF-2	0.068464
+HC09IgGpos_S16	leuS	lmo1660	leucyl-tRNA synthetase	0.066003
+HC09IgGpos_S16		lmo2411	hypothetical protein	0.057471
+HC09IgGpos_S16	ftsH	lmo0220	cell division protein FtsH	0.056922
+HC09IgGpos_S16		lmo1611	aminopeptidase	0.048553
+HC09IgGpos_S16	nusA	lmo1322	transcription elongation factor NusA	0.043907
+HC09IgGpos_S16	PdhB	lmo1053	pyruvate dehydrogenase subunit E1 beta	0.038974
+HC09IgGpos_S16	polC	lmo1320	DNA polymerase III PolC	0.038319
+HC09IgGpos_S16		lmo1027	hypothetical protein	0.036036
+HC09IgGpos_S16	rplW	lmo2630	50S ribosomal protein L23	0.035461
+HC09IgGpos_S16		lmo1067	GTP-binding elongation factor	0.031046
+HC09IgGpos_S16	priA	lmo1824	primosome assembly protein PriA	0.026767
+HC09IgGpos_S16		lmo2848	L-rhamnose isomerase	0.020635
+HC09IgGpos_S16	gidA	lmo2810	tRNA uridine 5-carboxymethylaminomethyl modification enzyme GidA	0.020138
+HC09IgGpos_S16		lmo0841	calcium-transporting ATPase	0.012121
+HC10IgGneg_S17	tuf	lmo2653	elongation factor Tu	2.285232
+HC10IgGneg_S17	rplB	lmo2629	50S ribosomal protein L2	0.861613
+HC10IgGneg_S17	rpmJ	lmo2609	50S ribosomal protein L36	0.837838
+HC10IgGneg_S17	rpsS	lmo2628	30S ribosomal protein S19	0.543478
+HC10IgGneg_S17	rplA	lmo0249	50S ribosomal protein L1	0.503639
+HC10IgGneg_S17	rpmA	lmo1540	50S ribosomal protein L27	0.496528
+HC10IgGneg_S17	dnaK	lmo1473	molecular chaperone DnaK	0.373573
+HC10IgGneg_S17	fus	lmo2654	elongation factor G	0.338130
+HC10IgGneg_S17	rpmH	lmo2856	50S ribosomal protein L34	0.265151
+HC10IgGneg_S17	rpoB	lmo0258	DNA-directed RNA polymerase subunit beta	0.180180
+HC10IgGneg_S17		lmo1109	hypothetical protein	0.159817
+HC10IgGneg_S17		lmo0098	PTS mannose transporter subunit IID	0.141914
+HC10IgGneg_S17	rpsB	lmo1658	30S ribosomal protein S2	0.133869
+HC10IgGneg_S17	rplS	lmo1787	50S ribosomal protein L19	0.116959
+HC10IgGneg_S17	pflB	lmo1406	pyruvate formate-lyase	0.109915
+HC10IgGneg_S17		lmo1799	peptidoglycan binding protein	0.101883
+HC10IgGneg_S17		lmo1978	glucose-6-phosphate 1-dehydrogenase	0.098439
+HC10IgGneg_S17	rpsM	lmo2608	30S ribosomal protein S13	0.085399
+HC10IgGneg_S17		lmo2511	hypothetical protein	0.069519
+HC10IgGneg_S17		lmo1106	hypothetical protein	0.066176
+HC10IgGneg_S17	lepA	lmo1479	GTP-binding protein LepA	0.054825
+HC10IgGneg_S17	atpA	lmo2531	ATP synthase F0F1 subunit alpha	0.042328
+HC10IgGneg_S17		lmo1875	ABC transporter ATP-binding protein	0.036508
+HC10IgGneg_S17		lmo1081	glucose-1-phosphate thymidyl transferase	0.034722
+HC10IgGneg_S17	pgk	lmo2458	phosphoglycerate kinase	0.030303
+HC10IgGneg_S17	glpK	lmo1538	glycerol kinase	0.026828
+HC10IgGneg_S17	rpoC	lmo0259	DNA-directed RNA polymerase subunit beta'	0.021371
+HC10IgGneg_S17	ffh	lmo1801	signal recognition particle protein Ffh	0.019259
+HC10IgGneg_S17		lmo1734	glutamate synthase large subunit	0.009586
+HC10IgGneg_S17		lmo1110	hypothetical protein	0.003472
+HC10IgGpos_S18	tuf	lmo2653	elongation factor Tu	22.775528
+HC10IgGpos_S18	rpmJ	lmo2609	50S ribosomal protein L36	20.585585
+HC10IgGpos_S18	rplB	lmo2629	50S ribosomal protein L2	16.567991
+HC10IgGpos_S18	rpsS	lmo2628	30S ribosomal protein S19	12.952899
+HC10IgGpos_S18	rpsB	lmo1658	30S ribosomal protein S2	8.697456
+HC10IgGpos_S18		lmo1097a	hypothetical protein	5.873737
+HC10IgGpos_S18	atpA	lmo2531	ATP synthase F0F1 subunit alpha	5.218254
+HC10IgGpos_S18	rpmA	lmo1540	50S ribosomal protein L27	4.618055
+HC10IgGpos_S18		lmo2511	hypothetical protein	4.128342
+HC10IgGpos_S18	rpsH	lmo2618	30S ribosomal protein S8	4.123737
+HC10IgGpos_S18	fus	lmo2654	elongation factor G	4.033573
+HC10IgGpos_S18		lmo1391	sugar ABC transporter permease	4.021097
+HC10IgGpos_S18	rpsJ	lmo2633	30S ribosomal protein S10	3.882353
+HC10IgGpos_S18	tsf	lmo1657	elongation factor Ts	3.467120
+HC10IgGpos_S18	rplA	lmo0249	50S ribosomal protein L1	3.379913
+HC10IgGpos_S18	dnaK	lmo1473	molecular chaperone DnaK	3.135400
+HC10IgGpos_S18	atpD	lmo2529	ATP synthase F0F1 subunit beta	2.026779
+HC10IgGpos_S18	pgk	lmo2458	phosphoglycerate kinase	2.005892
+HC10IgGpos_S18	pflB	lmo1406	pyruvate formate-lyase	1.892777
+HC10IgGpos_S18		lmo1978	glucose-6-phosphate 1-dehydrogenase	1.653768
+HC10IgGpos_S18		lmo2703	hypothetical protein	1.615873
+HC10IgGpos_S18	pdhA	lmo1052	pyruvate dehydrogenase subunit E1 alpha	1.247978
+HC10IgGpos_S18	rplK	lmo0248	50S ribosomal protein L11	1.130024
+HC10IgGpos_S18		lmo1875	ABC transporter ATP-binding protein	1.096825
+HC10IgGpos_S18	eno	lmo2455	phosphopyruvate hydratase	0.828682
+HC10IgGpos_S18	gatB	lmo1754	aspartyl/glutamyl-tRNA amidotransferase subunit B	0.827731
+HC10IgGpos_S18	rpoB	lmo0258	DNA-directed RNA polymerase subunit beta	0.799831
+HC10IgGpos_S18	leuS	lmo1660	leucyl-tRNA synthetase	0.700706
+HC10IgGpos_S18	rpsN	lmo2619	30S ribosomal protein S14	0.584700
+HC10IgGpos_S18	gap	lmo2459	glyceraldehyde-3-phosphate dehydrogenase	0.461309
+HC10IgGpos_S18	prfC	lmo0988	peptide chain release factor 3	0.455300
+HC10IgGpos_S18		lmo1853	heavy metal-transporting ATPase	0.347806
+HC10IgGpos_S18		lmo0866	ATP-dependent RNA helicase	0.317949
+HC10IgGpos_S18		lmo2689a	hypothetical protein	0.317460
+HC10IgGpos_S18	pnpA	lmo1331	polynucleotide phosphorylase	0.313970
+HC10IgGpos_S18	rpoC	lmo0259	DNA-directed RNA polymerase subunit beta'	0.194005
+HC10IgGpos_S18	groEL	lmo2068	molecular chaperone GroEL	0.190037
+HC10IgGpos_S18		lmo0107	ABC transporter ATP-binding protein	0.186622
+HC10IgGpos_S18		lmo0097	PTS mannose transporter subunit IIC	0.176617
+HC10IgGpos_S18	rpsK	lmo2607	30S ribosomal protein S11	0.167959
+HC10IgGpos_S18	ftsH	lmo0220	cell division protein FtsH	0.158707
+HC10IgGpos_S18		lmo2434	glutamate decarboxylase	0.136331
+HC10IgGpos_S18	rplC	lmo2632	50S ribosomal protein L3	0.084529
+HC10IgGpos_S18	rplD	lmo2631	50S ribosomal protein L4	0.062802
+HC10IgGpos_S18	glpK	lmo1538	glycerol kinase	0.049631
+HC10IgGpos_S18	hslU	lmo1279	ATP-dependent protease ATP-binding subunit HslU	0.045487
+HC10IgGpos_S18	polC	lmo1320	DNA polymerase III PolC	0.039243
+HC10IgGpos_S18	rpoA	lmo2606	DNA-directed RNA polymerase subunit alpha	0.036093
+HC10IgGpos_S18		lmo1081	glucose-1-phosphate thymidyl transferase	0.032407
+HC10IgGpos_S18	valS	lmo1552	valyl-tRNA synthetase	0.031333
+HC10IgGpos_S18		lmo1611	aminopeptidase	0.024276
+HC10IgGpos_S18	gidA	lmo2810	tRNA uridine 5-carboxymethylaminomethyl modification enzyme GidA	0.023317
+HC10IgGpos_S18		lmo1027	hypothetical protein	0.018018
+HC10IgGpos_S18	rplW	lmo2630	50S ribosomal protein L23	0.017730
+HC10IgGpos_S18	ileS	lmo2019	isoleucyl-tRNA synthetase	0.010496
+HC11IgGneg_S19	rpsM	lmo2608	30S ribosomal protein S13	0.388430
+HC11IgGneg_S19	rplB	lmo2629	50S ribosomal protein L2	0.375451
+HC11IgGneg_S19		lmo1097a	hypothetical protein	0.328283
+HC11IgGneg_S19	atpD	lmo2529	ATP synthase F0F1 subunit beta	0.223397
+HC11IgGneg_S19	tuf	lmo2653	elongation factor Tu	0.222785
+HC11IgGneg_S19	rpsB	lmo1658	30S ribosomal protein S2	0.168675
+HC11IgGneg_S19	rpsK	lmo2607	30S ribosomal protein S11	0.160207
+HC11IgGneg_S19	rpoB	lmo0258	DNA-directed RNA polymerase subunit beta	0.117962
+HC11IgGneg_S19	rplS	lmo1787	50S ribosomal protein L19	0.116959
+HC11IgGneg_S19		lmo2511	hypothetical protein	0.069519
+HC11IgGneg_S19		lmo0674	hypothetical protein	0.061002
+HC11IgGneg_S19		lmo1081	glucose-1-phosphate thymidyl transferase	0.034722
+HC11IgGneg_S19	glyA	lmo2539	serine hydroxymethyltransferase	0.027442
+HC11IgGneg_S19	leuS	lmo1660	leucyl-tRNA synthetase	0.022001
+HC11IgGneg_S19	gyrA	lmo0007	DNA gyrase subunit A	0.017815
+HC11IgGneg_S19		lmo1875	ABC transporter ATP-binding protein	0.015344
+HC11IgGneg_S19	polC	lmo1320	DNA polymerase III PolC	0.012235
+HC11IgGpos_S20	rpmJ	lmo2609	50S ribosomal protein L36	28.819820
+HC11IgGpos_S20	tuf	lmo2653	elongation factor Tu	27.707172
+HC11IgGpos_S20	rplB	lmo2629	50S ribosomal protein L2	20.580025
+HC11IgGpos_S20	rpsS	lmo2628	30S ribosomal protein S19	13.108696
+HC11IgGpos_S20	rpmA	lmo1540	50S ribosomal protein L27	6.923611
+HC11IgGpos_S20	rpsJ	lmo2633	30S ribosomal protein S10	6.166666
+HC11IgGpos_S20	rpsB	lmo1658	30S ribosomal protein S2	5.623828
+HC11IgGpos_S20	rplA	lmo0249	50S ribosomal protein L1	5.352256
+HC11IgGpos_S20		lmo1391	sugar ABC transporter permease	4.737342
+HC11IgGpos_S20	rpsH	lmo2618	30S ribosomal protein S8	4.578283
+HC11IgGpos_S20	atpA	lmo2531	ATP synthase F0F1 subunit alpha	4.499339
+HC11IgGpos_S20	fus	lmo2654	elongation factor G	4.419185
+HC11IgGpos_S20		lmo2511	hypothetical protein	4.276292
+HC11IgGpos_S20		lmo1097a	hypothetical protein	4.242424
+HC11IgGpos_S20		lmo2703	hypothetical protein	3.142857
+HC11IgGpos_S20	dnaK	lmo1473	molecular chaperone DnaK	3.014138
+HC11IgGpos_S20	tsf	lmo1657	elongation factor Ts	2.345805
+HC11IgGpos_S20	pdhA	lmo1052	pyruvate dehydrogenase subunit E1 alpha	1.825696
+HC11IgGpos_S20	pgk	lmo2458	phosphoglycerate kinase	1.393939
+HC11IgGpos_S20	rplK	lmo0248	50S ribosomal protein L11	1.378251
+HC11IgGpos_S20	rpsN	lmo2619	30S ribosomal protein S14	1.377049
+HC11IgGpos_S20	rpoB	lmo0258	DNA-directed RNA polymerase subunit beta	1.253660
+HC11IgGpos_S20	atpD	lmo2529	ATP synthase F0F1 subunit beta	1.246653
+HC11IgGpos_S20	gatB	lmo1754	aspartyl/glutamyl-tRNA amidotransferase subunit B	1.201681
+HC11IgGpos_S20	pflB	lmo1406	pyruvate formate-lyase	1.182593
+HC11IgGpos_S20	gap	lmo2459	glyceraldehyde-3-phosphate dehydrogenase	1.170635
+HC11IgGpos_S20		lmo1875	ABC transporter ATP-binding protein	1.057672
+HC11IgGpos_S20		lmo1978	glucose-6-phosphate 1-dehydrogenase	0.892736
+HC11IgGpos_S20	eno	lmo2455	phosphopyruvate hydratase	0.803101
+HC11IgGpos_S20	rpsP	lmo1797	30S ribosomal protein S16	0.681481
+HC11IgGpos_S20	rpsM	lmo2608	30S ribosomal protein S13	0.556474
+HC11IgGpos_S20		lmo1853	heavy metal-transporting ATPase	0.434645
+HC11IgGpos_S20		lmo0107	ABC transporter ATP-binding protein	0.364250
+HC11IgGpos_S20	pnpA	lmo1331	polynucleotide phosphorylase	0.348548
+HC11IgGpos_S20	leuS	lmo1660	leucyl-tRNA synthetase	0.330428
+HC11IgGpos_S20	rplC	lmo2632	50S ribosomal protein L3	0.295056
+HC11IgGpos_S20	rpoC	lmo0259	DNA-directed RNA polymerase subunit beta'	0.245906
+HC11IgGpos_S20		lmo2689a	hypothetical protein	0.222222
+HC11IgGpos_S20	groEL	lmo2068	molecular chaperone GroEL	0.151906
+HC11IgGpos_S20	PdhB	lmo1053	pyruvate dehydrogenase subunit E1 beta	0.140513
+HC11IgGpos_S20	polC	lmo1320	DNA polymerase III PolC	0.137350
+HC11IgGpos_S20	prfC	lmo0988	peptide chain release factor 3	0.130907
+HC11IgGpos_S20	groES	lmo2069	co-chaperonin GroES	0.102837
+HC11IgGpos_S20	rpsQ	lmo2623	30S ribosomal protein S17	0.099617
+HC11IgGpos_S20		lmo2434	glutamate decarboxylase	0.098501
+HC11IgGpos_S20	ftsH	lmo0220	cell division protein FtsH	0.086348
+HC11IgGpos_S20	clpE	lmo0997	ATP-dependent protease	0.083794
+HC11IgGpos_S20	gidA	lmo2810	tRNA uridine 5-carboxymethylaminomethyl modification enzyme GidA	0.083731
+HC11IgGpos_S20		lmo2848	L-rhamnose isomerase	0.082540
+HC11IgGpos_S20		lmo1067	GTP-binding elongation factor	0.077887
+HC11IgGpos_S20	rpsL	lmo2656	30S ribosomal protein S12	0.075426
+HC11IgGpos_S20	pdhC	lmo1054	dihydrolipoamide acetyltransferase	0.074755
+HC11IgGpos_S20		lmo1611	aminopeptidase	0.074696
+HC11IgGpos_S20	rpoA	lmo2606	DNA-directed RNA polymerase subunit alpha	0.072187
+HC11IgGpos_S20	glpK	lmo1538	glycerol kinase	0.069752
+HC11IgGpos_S20		lmo0383	methylmalonate-semialdehyde dehydrogenase	0.064891
+HC11IgGpos_S20	rplD	lmo2631	50S ribosomal protein L4	0.062802
+HC11IgGpos_S20	guaB	lmo2758	inosine-monophosphate dehydrogenase	0.050546
+HC11IgGpos_S20		lmo2159	oxidoreductase	0.044890
+HC11IgGpos_S20	nusA	lmo1322	transcription elongation factor NusA	0.041219
+HC11IgGpos_S20	tkt	lmo1305	transketolase	0.036145
+HC11IgGpos_S20		lmo1027	hypothetical protein	0.036036
+HC11IgGpos_S20	tcsA	lmo1388	CD4+ T cell-stimulating antigen, lipoprotein	0.028945
+HC11IgGpos_S20	rplW	lmo2630	50S ribosomal protein L23	0.010638
