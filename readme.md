@@ -103,7 +103,7 @@ flowchart TB
 
 ## Resultados
 
-[Script para buscar todos los genes con lecturas mapeadas](https://github.com/laugior/search4listeria/blob/main/scripts/parse_all_cov.py)
+
 
 ### UC
 
@@ -134,6 +134,8 @@ flowchart TB
 
 
 ## Genes totales
+[Script para buscar todos los genes con lecturas mapeadas](https://github.com/laugior/search4listeria/blob/main/scripts/parse_all_cov.py)
+
 [CD_RESULTS](https://github.com//laugior/search4listeria/tree/main/resultados/CD_ALL_COV/reporte_cobertura_CD.tsv)
 
 [UC_RESULTS](https://github.com//laugior/search4listeria/tree/main/resultados/UC_ALL_COV/reporte_cobertura_UC.tsv)
