@@ -103,6 +103,8 @@ flowchart TB
 
 ## Resultados
 
+[Script para buscar todos los genes con lecturas mapeadas](https://github.com/laugior/search4listeria/blob/main/scripts/parse_all_cov.py)
+
 ### UC
 
 |Muestra|	Gene	|Locus_Tag	|Cobertura	|Categoria_Marcador|
