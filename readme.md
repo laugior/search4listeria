@@ -1,5 +1,14 @@
 Pipeline para buscar genes de listeria en muestras
 
+by Laureano y Claude ♥
+
+# Acuso de IA
+Los scripts de este pipeline fueron creados utilizando Claude Opus 4.8 alto.
+
+Pipeline diseñado para correr en CCAD
+
+
+
 ```mermaid
 flowchart TB
     %% --- ENTRADAS ---
